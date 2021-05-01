@@ -1,0 +1,21 @@
+{
+  "name": "dadjokes",
+  "version": "1.0Shynghy.0",
+  "description": "Lists bad dad jokes",
+  "author": "shynghys",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "@nuxtjs/axios": "^5.3.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
